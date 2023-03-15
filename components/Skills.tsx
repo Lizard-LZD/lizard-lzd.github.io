@@ -1,6 +1,13 @@
 import { motion } from 'framer-motion'
 import React from 'react'
-import Skill from './Skill'
+import Skill from './skills/Skill'
+import Skill2 from './skills/Skill2'
+import Skill3 from './skills/Skill3'
+import Skill4 from './skills/Skill4'
+import Skill5 from './skills/Skill5'
+import Skill6 from './skills/Skill6'
+import Skill7 from './skills/Skill7'
+import Skill8 from './skills/Skill8'
 
 type Props = {}
 
@@ -14,14 +21,14 @@ export default function Skills({}: Props) {
     </h3>
 
     <div className='grid grid-cols-4 gap-5'>
-        <Skill />
-        <Skill />
-        <Skill />
-        <Skill />
-        <Skill />
-        <Skill />
-        <Skill />
-        <Skill />
+        <Skill directionLeft={true}/>
+        <Skill2 directionLeft={true}/>
+        <Skill3 directionLeft={true}/>
+        <Skill4 directionLeft={true}/>
+        <Skill5 />
+        <Skill6 />
+        <Skill7 />
+        <Skill8 />
     </div>
     </motion.div>
   )
