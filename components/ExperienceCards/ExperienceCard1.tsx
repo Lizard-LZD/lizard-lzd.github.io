@@ -23,10 +23,10 @@ export default function ExperienceCard({ }: Props) {
                 <h4 className='text-4xl font-light'>Web Developer</h4>
                 <p className='font-bold text-2xl mt-1'>Freelance</p>
                 <div className='flex space-x-2 my-2'>
-                 
+
                 </div>
                 <p className='uppercase py-5 text-gray-300'>
-                    Strated work... - Ended...
+                    Mar 2022 - Current
                 </p>
 
                 <ul className='list-disc space-y-4 ml-5 text-lg py-10'>
