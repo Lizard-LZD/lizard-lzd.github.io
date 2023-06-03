@@ -49,7 +49,7 @@ export default function About({ }: Props) {
                     background
                 </h4>
                 <p className='text-xl'>
-                    I'm Ziqi, a passionate and motivated individual with a focus on coding. I have been learning programming languages like JavaScript, React, Node.js, and Next.js. 
+                    Hi there my name is Ziqi, a passionate and motivated individual with a focus on coding. I have been learning programming languages like JavaScript, React, Node.js, and Next.js. 
                     Currently working as a React Developer at Humanitarian Operation in London, I build and maintain web applications using clean and well-documented React code. 
                     I collaborate with product and design teams, integrate RESTful APIs, and prioritize web accessibility. 
                     I constantly strive to improve the performance and user experience of web applications. 
