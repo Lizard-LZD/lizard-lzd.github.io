@@ -49,14 +49,11 @@ export default function About({ }: Props) {
                     background
                 </h4>
                 <p className='text-xl'>
-                    Welcome to my portfolio website! My name is Ziqi, and I am a passionate and motivated individual who has been learning coding for almost a year now.
-                    I graduated from the University of Leeds with a major in Sociology, but I decided to pursue a career in tech and started learning programming.
-                    Since then, I have developed skills in several programming languages, including JavaScript, React, Node.js and Next.js. I have worked on various projects, 
-                    such as building a Chatbot using Expo and Node.js. I am excited about the endless possibilities that coding offers, and I am constantly striving to 
-                    learn new things and improve my skills. I am particularly interested in web and software development, and I believe that these fields have tremendous 
-                    potential to make a positive impact on society.
-                    In this portfolio, you will find some of my projects, which showcase my skills and understanding of coding. 
-                    I hope you enjoy them and feel free to contact me if you have any questions or opportunities for collaboration. Thank you for visiting my website!
+                    I'm Ziqi, a passionate and motivated individual with a focus on coding. I have been learning programming languages like JavaScript, React, Node.js, and Next.js. 
+                    Currently working as a React Developer at Humanitarian Operation in London, I build and maintain web applications using clean and well-documented React code. 
+                    I collaborate with product and design teams, integrate RESTful APIs, and prioritize web accessibility. 
+                    I constantly strive to improve the performance and user experience of web applications. 
+                    If you have any questions or collaboration opportunities, feel free to reach out. Thank you for visiting my website!
                 </p>
             </div>
         </motion.div>
