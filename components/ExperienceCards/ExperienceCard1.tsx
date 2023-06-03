@@ -21,20 +21,20 @@ export default function ExperienceCard({ }: Props) {
 
             <div className='px-0 md:px-10'>
                 <h4 className='text-4xl font-light'>Web Developer</h4>
-                <p className='font-bold text-2xl mt-1'>Freelance</p>
+                <p className='font-bold text-2xl mt-1'>Humanitarian Operation</p>
                 <div className='flex space-x-2 my-2'>
-
+                    London
                 </div>
                 <p className='uppercase py-5 text-gray-300'>
-                    Mar 2022 - Current
+                    April 2023 - Current
                 </p>
 
                 <ul className='list-disc space-y-4 ml-5 text-lg py-10'>
-                    <li>Developed front-end and back-end solutions for web and mobile apps, using various technologies.</li>
-                    <li>Maintained high coding standards, ensuring scalability, maintainability, and efficiency.</li>
-                    <li>Worked independently as a freelance developer, managing projects and communicating with clients effectively.</li>
-                    <li>Collaborated with other developers, designers, and stakeholders to develop effective solutions for clients.</li>
-                    <li>Committed to continuous learning and professional development to stay current with the latest industry trends and technologies.</li>
+                    <li>Build and maintain web applications with clean, clear, well-documented React code.</li>
+                    <li>Collaborate with product and design teams via Figma and Three.js to match the visual design intent.</li>
+                    <li>Integrate RESTful APIs and collaborate with the backend team for seamless data exchange.</li>
+                    <li>Ensure that web applications are accessible and user-friendly for all users, including those with disabilities.</li>
+                    <li>Continuously improve the performance and user experience of web applications to meet user needs.</li>
                 </ul>
 
             </div>
