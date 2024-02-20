@@ -26,7 +26,7 @@ export default function ExperienceCard({ }: Props) {
                     London
                 </div>
                 <p className='uppercase py-5 text-gray-300'>
-                    April 2023 - Current
+                    April 2022 - Current
                 </p>
 
                 <ul className='list-disc space-y-4 ml-5 text-lg py-10'>
