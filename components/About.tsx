@@ -32,10 +32,10 @@ export default function About({ }: Props) {
                     x: 0
                 }}
                 viewport={{ once: false }}
-                className='-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]'
+                className='-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[400px] xl:h-[480px]'
             >
                 <Image
-                    className='flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]'
+                    className='flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[400px] xl:h-[480px]'
                     width={500}
                     height={500}
                     src={Pic}
@@ -49,11 +49,9 @@ export default function About({ }: Props) {
                     background
                 </h4>
                 <p className='text-xl'>
-                    Hi there my name is Ziqi, a passionate and motivated individual with a focus on coding. I have been learning programming languages like JavaScript, React, Node.js, and Next.js. 
-                    Currently working as a React Developer at Humanitarian Operation in London, I build and maintain web applications using clean and well-documented React code. 
-                    I collaborate with product and design teams, integrate RESTful APIs, and prioritize web accessibility. 
-                    I constantly strive to improve the performance and user experience of web applications. 
-                    If you have any questions or collaboration opportunities, feel free to reach out. Thank you for visiting my website!
+                    Hi there my name is Ziqi, a passionate and motivated individual with a focus on coding.  
+                    Python, JavaScript, React, Node.js, and Next.js. 
+                   
                 </p>
             </div>
         </motion.div>

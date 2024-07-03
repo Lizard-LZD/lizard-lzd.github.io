@@ -23,13 +23,13 @@ export default function Contact({ }: Props) {
         Contact
       </h3>
       <div className='flex flex-col space-y-10'>
-        <h4 className='text-4xl font-semibold text-center'>
+        {/* <h4 className='text-4xl font-semibold text-center'>
           Feel free to contact me.{' '}
           <span className='decoration-[#F7AB0A]/50 underline'>Lets Talk</span>
-        </h4>
-        <div className='space-y-10'>
+        </h4> */}
+        <div className='space-y-10 mt-10'>
           <div className='flex items-center space-x-5 justify-center'>
-            <PhoneIcon className='text-[#F7AB0A] h-7 w-7 animate-pulse' />
+            <PhoneIcon className='text-[#F7AB0A] h-7 w-7 animate-pulse mt-4' />
             <p className='text-2xl'>7920638534</p>
           </div>
           <div className='flex items-center space-x-5 justify-center'>
@@ -38,7 +38,7 @@ export default function Contact({ }: Props) {
           </div>
           <div className='flex items-center space-x-5 justify-center'>
             <MapPinIcon className='text-[#F7AB0A] h-7 w-7 animate-pulse' />
-            <p className='text-2xl'>Leeds LS2</p>
+            <p className='text-2xl'>London</p>
           </div>
         </div>
         <form onSubmit={handleSubmit(onSubmit)} className='flex flex-col space-y-2 w-fit mx-auto'>

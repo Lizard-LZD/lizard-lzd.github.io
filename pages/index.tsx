@@ -54,13 +54,13 @@ export default function Home() {
       </section>
 
 
-      <Link href='#hero'>
+      {/* <Link href='#hero'>
         <footer className='sticky bottom-5 w-full cursor-pointer'>
           <div className='flex items-center justify-center'>
           <p>⬆Top</p>
           </div>
         </footer>
-      </Link>
+      </Link> */}
 
     </div>
   )
